@@ -69,7 +69,7 @@ if exists('g:gruvbox_contrast')
 endif
 
 if !exists('g:gruvbox_contrast_dark')
-  let g:gruvbox_contrast_dark='medium'
+  let g:gruvbox_contrast_dark='dark'
 endif
 
 if !exists('g:gruvbox_contrast_light')
